@@ -1,5 +1,5 @@
 name: firstworkflow
-on: workflow_dispatch
+on: workflow_dispatch #manually trigger the event
 jobs:
   first-job:
     runs-on: ubuntu-latest
