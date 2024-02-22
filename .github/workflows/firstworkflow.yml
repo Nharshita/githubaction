@@ -8,3 +8,5 @@ jobs:
         run: echo "Hello everyone"
       - name: print goodbye
         run: echo "Done-bye"
+      - name: print logout
+        run: echo "looged out"
